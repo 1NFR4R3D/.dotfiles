@@ -53,10 +53,13 @@ if has('syntax') && has('eval')
 endif
 
 " Set a colourscheme to use across all terminals without losing eyesight
-colorscheme habamax
+colorscheme industry
 
 " Set 80 an column marker
 set colorcolumn=80
 
 " Enable line numbers
 set number
+
+" Highlight current row
+set cursorline
