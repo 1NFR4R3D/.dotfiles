@@ -63,3 +63,8 @@ set number
 
 " Highlight current row
 set cursorline
+
+" Set indentation preferences
+set tabstop=4
+set softtabstop=4
+set shiftwidth=4
