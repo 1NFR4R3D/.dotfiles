@@ -1,0 +1,4 @@
+1. https://gitlab.com/tewke/tewkeos/ota-daemon/-/issues/12
+2. I2C: Why does the bus get locked up?
+3. Implement writing to the parasitic_mode bitfield in SMILE
+4. Test read funcs of SMILE for new regs
