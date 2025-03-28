@@ -3,6 +3,7 @@
 
 # Ignore files created by vim
 *~
+*.swp
 
 # Ignore rust toolchain configs. These are generally for matching up with 
 # build toolchains 

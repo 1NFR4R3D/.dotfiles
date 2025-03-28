@@ -1,4 +1,2 @@
-1. https://gitlab.com/tewke/tewkeos/ota-daemon/-/issues/12
-2a.I2C: Why does the bus get locked up?xx
- b.   : Check waking up using GPIO
- c.   : Test I2C bus resiliency with GPIO wake
+1. BME Sensor self test in hardware test
+2. ATECC608B library
