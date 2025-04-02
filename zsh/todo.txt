@@ -1,3 +1,4 @@
 1. BME Sensor self test in hardware test
 2. ATECC608B library
-   - Replace all self.send()...self.recv() with self.transact_retry()
+3. Spawn Getty on wall module serial port when a magic packet is received
+4. Fix kpurohit-pi (Reflash, set up atecc lib)
